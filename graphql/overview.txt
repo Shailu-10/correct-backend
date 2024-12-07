@@ -1,0 +1,12 @@
+deleteUser returns string message successfully deleted or not
+deleteFriends return string message friends successfully deleted
+or uss id ka friend doesn't exist...
+
+
+validate every input ip ki valid input id for database h bhi ki nhi
+databasem id valid hone ki bhi kuch conditon hogi, space ho ya na ho
+woh kisi fucktion m kiya h do it in all for error check
+
+delete user and delete user 
+id m toh, we returning string, so kuch naam toh hoga nhi, how to access without any property field
+and how to send request
